@@ -1,2 +1,1 @@
-# TinDog
-Website for a fictional app
+TinDog Starting Files
